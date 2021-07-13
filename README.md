@@ -16,6 +16,6 @@ In this project, I will use the Breast Cancer Wisconsin (Diagnostic) Data Set to
   This presentation summarizes the data wrangling, EDA, modeling and conclusions for this project. 
   
 3. Notebooks
-  * [Data Wrangling](insert link)
-  * [Exploration Data Analysis](insert link)
-  * [Machine Learning](insert link)
+  * [Exploration Data Analysis](https://nbviewer.jupyter.org/github/montealj/Predicting-Breast-Cancer/blob/main/notebooks/predicting_breast_cancer_eda.ipynb)
+  * [Feature Selection](https://nbviewer.jupyter.org/github/montealj/Predicting-Breast-Cancer/blob/main/notebooks/predicting_breast_cancer_preprocessing.ipynb)
+  * [Machine Learning](https://nbviewer.jupyter.org/github/montealj/Predicting-Breast-Cancer/blob/main/notebooks/predicting_breast_cancer_models.ipynb)
